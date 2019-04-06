@@ -1,0 +1,28 @@
+.LOCALjumbotron {
+  padding: 1rem 1rem;
+  background-color: #e9ecef;
+  margin-bottom: 2rem;
+
+}
+
+
+
+.LOCALdisplay-4 {
+  padding: 1rem 0rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 1.2;
+  text-align: center;
+
+}
+
+.LOCAL_topbuttons {
+  margin:3rem 5px;
+  float:right;
+  position: relative;
+  right: 1.5rem;
+  border: 2px solid gray;
+  padding: 6px 6px;
+  border-radius: 5px;
+  color: #343a40;
+}
